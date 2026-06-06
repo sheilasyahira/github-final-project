@@ -1,4 +1,5 @@
 Please consider the below factors while contributing to Simple Interest Calculator project
+This Simple Interest Calculator using the formula simple interest = (principal x rate x time) /100
 
 Code Style: Maintain a consistent code style for readability.
 
